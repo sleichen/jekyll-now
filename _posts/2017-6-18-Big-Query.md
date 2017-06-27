@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Big Query
-published: false
 ---
 
 This post is about Google's [Big Query](https://cloud.google.com/bigquery), which had _planned_ to use for a project in the near future (more on that below). Big Query is cloud database run by Google that you can store your data in for a fee and access it later. There are also lots of publicly-available databases on Big Query, which one could take advantage of. And there are not-officially-public-but-still-publicly-accessible databases too. For instance, every Reddit post ends up there. I assume that's due to the generosity of some person who likes data and doesn't mind paying fees. The people at Google have figured out how to make searching the databases extremely fast, even when they're very large. [Here](https://www.youtube.com/watch?v=UueWySREWvk) is a really interesting video about it.
